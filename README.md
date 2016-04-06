@@ -34,7 +34,7 @@ Added basic webinterface for MongoDB with adminMongo (https://github.com/mrvauti
 In Linux or OS X (inside the box):
 
 ```shell
-$ ln -s /home/vagrant/node_modules /home/vagrant/dealz/node_module
+$ ln -s /home/vagrant/node_modules /home/vagrant/[projectname]/node_module
 ```
 
 On Windows you have to run in a privileged cmd (not powershell!) window in your projectfolder
